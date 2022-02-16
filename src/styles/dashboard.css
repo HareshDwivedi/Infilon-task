@@ -1,0 +1,21 @@
+.profile-pic {
+    border-radius: 50%;
+    width: 3rem;
+}
+
+table tr {
+    vertical-align: middle;
+}
+
+.user-head {
+    text-align: center;
+}
+
+
+/* .modal {
+    margin-top: 5%;
+    padding: 55px;
+    display: "block";
+    transition: "opacity .15s linear";
+    opacity: 1
+} */

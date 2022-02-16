@@ -1,0 +1,8 @@
+const obj = {};
+
+// HTTP STATUS CODE CONSTANTS FOR RESPONSE OF API
+obj.HTTP_CODE_SUCCESS = 200;
+obj.HTTP_CODE_BAD_REQUEST = 400;
+obj.HTTP_CODE_NOT_FOUND = 404;
+
+export default obj;
