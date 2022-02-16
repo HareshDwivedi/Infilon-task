@@ -183,8 +183,8 @@ const Dashboard = () => {
                     <thead className="bg-dark text-white text-center">
                         <tr>
                             <th>Profile Pic</th>
-                            <th>Firstname</th>
-                            <th>Lastname</th>
+                            <th>First Name</th>
+                            <th>Last Name</th>
                             <th>Email</th>
                             <th>Action</th>
                         </tr>
